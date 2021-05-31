@@ -40,11 +40,11 @@ The initial analysis utilizing the original dataset show:
     - [Top 5 High Performing Schools by % Overall Passing](Resources/high_performing.PNG)
     - [Top 5 Low Performing Schools by % Overall Passing](Resources/low_performing.PNG)
   - Math and reading scores by grade per school are:
-    - [Math Scores by Grade Per School](Resources/math_scores.PNG)
-    - [Reading Scores by School Per School](Resources/reading_scores.PNG)
-  - Scores by school spending are: [Scores by School Spending](Resources/scores_school_spending.PNG)
-  - Scores by school size are: [Scores by School Size](Resources/scores_school_size.PNG)
-  - Scores by school type are: [Scores by School Type](Resources/scores_school_type.PNG)
+    - [Math Scores by Grade Per School](Resources/math.PNG)
+    - [Reading Scores by School Per School](Resources/reading.PNG)
+  - Scores by school spending are: [Scores by School Spending](Resources/scores_by_school_spending.PNG)
+  - Scores by school size are: [Scores by School Size](Resources/scores_by_school_size.PNG)
+  - Scores by school type are: [Scores by School Type](Resources/scores_by_school_type.PNG)
 
 
 The secondary analysis with the 9th grade data from Thomas High School removed show:
@@ -62,10 +62,10 @@ The secondary analysis with the 9th grade data from Thomas High School removed s
     - [Top 5 High Performing Schools by % Overall Passing](Resources/updated_high_performing.PNG)
     - [Top 5 Low Performing Schools by % Overall Passing](Resources/updated_low_performing.PNG)
   - Math and reading scores by grade per school are:
-    - [Math Scores by Grade Per School](Resources/updated_math_scores.PNG)
-    - [Reading Scores by School Per School](Resources/updated_reading_scores.PNG)
-  - Scores by school spending are: [Scores by School Spending](Resources/updated_scores_school_spending.PNG)
-  - Scores by school size are: [Scores by School Size](Resources/updated_scores_school_size.PNG)
-  - Scores by school type are: [Scores by School Type](Resources/updated_scores_school_type.PNG)
+    - [Math Scores by Grade Per School](Resources/updated_math.PNG)
+    - [Reading Scores by School Per School](Resources/updated_reading.PNG)
+  - Scores by school spending are: [Scores by School Spending](Resources/updated_scores_by_school_spending.PNG)
+  - Scores by school size are: [Scores by School Size](Resources/updated_scores_by_school_size.PNG)
+  - Scores by school type are: [Scores by School Type](Resources/updated_scores_by_school_type.PNG)
 
 ## Summary
