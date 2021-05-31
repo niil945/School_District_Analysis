@@ -19,8 +19,8 @@ A school board has given the following tasks to complete the analysis of student
 14. Calculate the average math and reading scores, % passing math and reading, % overall passing by school type (Charter, District)
 
 ## Resources
--Data Sources: students_complete.csv, schools_complete.csv
--Software: Python 3.7, Anaconda 4.10.1, Jupyter Notebook 6.3.0
+- Data Sources: students_complete.csv, schools_complete.csv
+- Software: Python 3.7, Anaconda 4.10.1, Jupyter Notebook 6.3.0
 
 ## Results
 The initial analysis of the school districts student scores and funding show that:
