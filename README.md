@@ -69,7 +69,7 @@ The secondary analysis with the 9th grade data from Thomas High School removed s
   - Scores by school type are: [Scores by School Type](Resources/updated_scores_by_school_type.PNG)
 
 Removing Thomas High School 9th grade data resulted in the following District changes relative to the original results:
-  - Total Students: Reduced from 39,170 to 38,709
+  - Total Students (for calculating the following values): Reduced from 39,170 to 38,709 
   - Total Budget: Remained the same at $24,649,428.00
   - Average Math Score: Reduced from 79.0% to 78.9%
   - Average Reading Score: Remained the same at 81.9%
