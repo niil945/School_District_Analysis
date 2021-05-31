@@ -37,8 +37,8 @@ The initial analysis utilizing the original dataset show:
     - % Overall Passing: 65%
   - The per school summary results are: [Per School Summary Results](Resources/school_summary.PNG)
   - High and low performing schools are:
-  -   [Top 5 High Performing Schools by % Overall Passing](Resources/high_performing.PNG)
-  -   [Top 5 Low Performing Schools by % Overall Passing](Resources/low_performing.PNG)
+    - [Top 5 High Performing Schools by % Overall Passing](Resources/high_performing.PNG)
+    - [Top 5 Low Performing Schools by % Overall Passing](Resources/low_performing.PNG)
   - Math and reading scores by grade per school are:
     - [Math Scores by Grade Per School](Resources/math_scores.PNG)
     - [Reading Scores by School Per School](Resources/reading_scores.PNG)
@@ -59,8 +59,8 @@ The secondary analysis with the 9th grade data from Thomas High School removed s
     - % Overall Passing: 64.9%
   - The per school summary results are: [Per School Summary Results](Resources/updated_school_summary.PNG)
   - High and low performing schools are:
-  -   [Top 5 High Performing Schools by % Overall Passing](Resources/updated_high_performing.PNG)
-  -   [Top 5 Low Performing Schools by % Overall Passing](Resources/updated_low_performing.PNG)
+    - [Top 5 High Performing Schools by % Overall Passing](Resources/updated_high_performing.PNG)
+    - [Top 5 Low Performing Schools by % Overall Passing](Resources/updated_low_performing.PNG)
   - Math and reading scores by grade per school are:
     - [Math Scores by Grade Per School](Resources/updated_math_scores.PNG)
     - [Reading Scores by School Per School](Resources/updated_reading_scores.PNG)
